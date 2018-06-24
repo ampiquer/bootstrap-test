@@ -73,3 +73,23 @@ body{
     position: absolute;
     bottom: 0px;
 }
+
+.modal-header {
+    background: $background-dark;
+    
+    .close {
+        color: floralwhite;
+    }
+}
+
+.modal-body {
+    background: $background-pale
+}
+
+form {
+    color: black
+}
+
+#loginModal .modal-title {
+    color: floralwhite;
+}
